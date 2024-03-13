@@ -9,6 +9,7 @@ It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and us
 
 ttt
 rrr
+www
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
 
 <br />
